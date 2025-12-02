@@ -106,9 +106,10 @@ TON, USDT (TRC-20, ERC-20), Bitcoin (BTC), Ethereum (ETH) и другие поп
 - **Официальный сайт:** [https://redwallet.app](https://redwallet.app)
 - **Mini Apps Telegram:** [@rwapp_bot](https://t.me/rwapp_bot)
 - **Канал с новостями:** [@redwallet_ru](https://t.me/redwallet_ru)
-- **Поддержка:** [@info@redwallet.app](https://t.me/info@redwallet.app)
+- **Поддержка:** [nfo@redwallet.app](https://t.me/info@redwallet.app)
+- **Документация:** [docs.redwallet.app (https://docs.redwallet.app/)
 
----
+-----------------------------------------------------------
 
 ## **Итог**
 
